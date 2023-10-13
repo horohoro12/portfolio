@@ -1,0 +1,4 @@
+stopped at 31:00
+
+--> San makukuha yung mga functions na ginagamit sa class. pang tailwind ba yung mga functions na nandun or CSS???/
+  + tinatawag siya sa classname=""
